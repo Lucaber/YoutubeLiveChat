@@ -6,4 +6,5 @@ https://github.com/Lucaber/YoutubeLiveChat/blob/master/YoutubeChatTest/Program.c
 
 # Dependencies
 Newtonsoft.Json (https://www.nuget.org/packages/newtonsoft.json/)
+
 System.ValueTuple (https://www.nuget.org/packages/System.ValueTuple/)
