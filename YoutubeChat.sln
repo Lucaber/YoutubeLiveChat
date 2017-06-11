@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtube-Chat", "Youtube-Chat\Youtube-Chat.csproj", "{28B0C8F1-3137-4AA5-A0AF-544D2D9C10C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeChat", "Youtube-Chat\YoutubeChat.csproj", "{28B0C8F1-3137-4AA5-A0AF-544D2D9C10C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeChatTest", "YoutubeChatTest\YoutubeChatTest.csproj", "{93EDF5BE-ECC6-41C9-9BB1-A089B65F33CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{28B0C8F1-3137-4AA5-A0AF-544D2D9C10C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28B0C8F1-3137-4AA5-A0AF-544D2D9C10C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28B0C8F1-3137-4AA5-A0AF-544D2D9C10C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EDF5BE-ECC6-41C9-9BB1-A089B65F33CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EDF5BE-ECC6-41C9-9BB1-A089B65F33CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EDF5BE-ECC6-41C9-9BB1-A089B65F33CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EDF5BE-ECC6-41C9-9BB1-A089B65F33CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
